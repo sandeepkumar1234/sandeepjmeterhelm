@@ -1,0 +1,11 @@
+name: jmeter
+description: 'Ditributed jmeter test workflow inside kuberentes'
+version: 0.1.0
+appVersion: "5.4.1"
+home: https://github.com/sandeepkumar1234/kuberntes-jmeter
+icon: https://github.com/sandeepkumar1234/kuberntes-jmeter/images/jmeter-k8s.png
+sources:
+  - https://github.com/sandeepkumar1234/kuberntes-jmeter
+maintainers:
+  - name: sandepalguri
+    email: sandeepkumaralguri@gmail.com
